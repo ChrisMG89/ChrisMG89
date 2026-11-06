@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="guest@prometeo:~$ git push origin main — hecho a mano, con un escuadrón de agentes">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="christian@prometeo-core:~$ status --all — 18 AGENTS ONLINE">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#070d19"/>
@@ -17,7 +17,6 @@
   </defs>
   <rect width="1200" height="110" rx="14" fill="url(#bg)"/>
   <rect x="40" y="14" width="1120" height="2" fill="url(#line)"/>
-  <text x="600" y="58" text-anchor="middle" class="mono" font-size="18" fill="#cbd5e1"><tspan fill="#38bdf8">guest@prometeo</tspan><tspan fill="#64748b">:~$</tspan> git push origin main<tspan class="cursor" fill="#38bdf8"> ▌</tspan></text>
-  <text x="600" y="86" text-anchor="middle" class="mono" font-size="12" fill="#64748b" letter-spacing="2">HECHO A MANO · UN HUMANO + UN ESCUADRÓN DE AGENTES</text>
+  <text x="600" y="58" text-anchor="middle" class="mono" font-size="18" fill="#cbd5e1"><tspan fill="#38bdf8">christian@prometeo-core</tspan><tspan fill="#64748b">:~$</tspan> status --all · <tspan fill="#22c55e">18 AGENTS ONLINE</tspan><tspan class="cursor" fill="#38bdf8"> ▌</tspan></text>
+  <text x="600" y="86" text-anchor="middle" class="mono" font-size="12" fill="#64748b" letter-spacing="2">SISTEMA PRIVADO · ARQUITECTURA COGNITIVA · DOMÓTICA · MUNDOS 3D</text>
 </svg>
-
